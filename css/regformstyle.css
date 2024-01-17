@@ -1,0 +1,90 @@
+.introtitle{text-align:center;
+font-family:Arial;
+font-size:30px;
+padding-top:10px;
+padding-bottom:10px;}
+.regform{
+	text-align:center;
+	text-align:center;
+	padding-left:100px;
+	padding-right:100px;
+}
+
+.regform form{
+	border-style:solid;
+	border-width:2px;
+	border-color:lightblue;
+}
+
+.regform input[type='text']{
+	width:80%;
+	display:inline-block;
+	margin-top:10px;
+	padding:10px;
+	border-style:solid;
+	border-color:lightblue;
+	border-width:2px;
+}
+
+
+.regform input[type='email']{
+	width:80%;
+	display:inline-block;
+	margin-top:10px;
+	padding:10px;
+	border-style:solid;
+	border-color:lightblue;
+	border-width:2px;
+}
+
+.regform input[type='submit']{
+	width:80%;
+	display:inline-block;
+	margin-top:10px;
+	padding:10px;
+	border-style:solid;
+	border-color:lightblue;
+	border-width:2px;
+}
+
+.regform input[type='file']{
+	width:80%;
+	display:inline-block;
+	margin-top:10px;
+	padding:10px;
+	border-style:solid;
+	border-color:lightblue;
+	border-width:2px;
+}
+
+
+.regform input[type='number']{
+	width:80%;
+	display:inline-block;
+	margin-top:10px;
+	padding:10px;
+	border-style:solid;
+	border-color:lightblue;
+	border-width:2px;
+}
+
+
+
+.regform select{
+	width:80%;
+	display:inline-block;
+	margin-top:10px;
+	padding:10px;
+	border-style:solid;
+	border-color:lightblue;
+	border-width:2px;
+}
+
+
+.regform label{
+	
+	display:inline-block;
+	margin:5px;
+	padding:5px;
+	font-size:18px;
+}
